@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "982400369775",
+    "project_id": "translatorapp-894af",
+    "storage_bucket": "translatorapp-894af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982400369775:android:b329ba08248891fecc399a",
+        "android_client_info": {
+          "package_name": "edu.uol.mad.translatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982400369775-3otdcjtv7kcka1pgr6caae37m3gl3f0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsgH4JkfyLy0d3kEwUShvzMy7FKG6KJVU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982400369775-3otdcjtv7kcka1pgr6caae37m3gl3f0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
